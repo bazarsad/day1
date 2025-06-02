@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainPerson",
+      "request": "launch",
+      "mainClass": "MainPerson",
+      "projectName": "lab_d06ae63e"
+    },
+    {
+      "type": "java",
+      "name": "JavaInheritanceII",
+      "request": "launch",
+      "mainClass": "JavaInheritanceII",
+      "projectName": "lab_d06ae63e"
+    },
+    {
+      "type": "java",
+      "name": "NumberGuessingGame",
+      "request": "launch",
+      "mainClass": "NumberGuessingGame",
+      "projectName": "lab_d06ae63e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Khishigjargal/Documents/lab/lab8/task_3",
+      "program": "c:/Users/Khishigjargal/Documents/lab/lab8/task_3/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
